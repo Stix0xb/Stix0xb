@@ -60,7 +60,7 @@ Software should sharpen professional judgment, never stand in for it.
 
 **Southern New Hampshire University** — M.S. Computer Science *(in progress)*
 
-**Southern New Hampshirt University** - B.S. Criminal Justice *(completed)*
+**Southern New Hampshire University** - B.S. Criminal Justice *(completed)*
 
 ---
 
