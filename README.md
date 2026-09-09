@@ -1,29 +1,38 @@
 ## Noah Monroe
 
-**Software Engineering · Digital Forensics · Forensic Technology**
+**Digital Forensics · Software Engineering · Forensic Technology**
 
-I build software at the intersection of digital evidence, secure systems, automation, and
-data provenance — tools meant to hold up to scrutiny, not merely to run.
+I examine digital evidence for criminal investigations, and I build software for the
+same work — mobile device and computer forensics, historical cell site analysis, and
+cryptocurrency tracing. The engineering is not a second career. Digital evidence is
+only as good as the process that handles it, and most of what goes wrong with it goes
+wrong at the point of collection, long before anyone opens a tool.
 
 ---
 
 ### Current work
 
 **DEVI** — software for digital-forensics and evidence workflows: structured tooling,
-verifiable provenance, disciplined automation, and secure system design. The aim is to take
-the manual, error-prone weight out of evidence handling while keeping every step traceable
-and every claim checkable.
+verifiable provenance, disciplined automation, and secure system design. The aim is to
+take the manual, error-prone weight out of evidence handling while keeping every step
+traceable and every claim checkable.
 
 *Development happens in private repositories.*
+
+**Adrenaline Realm** — co-founder and lead engineer of an automotive community platform,
+live in beta on iOS and Android. I build the mobile app, the website, and a standalone
+law enforcement compliance portal, and designed the trust and safety program: registered
+NCMEC reporting provider, content-safety scanning, human moderation, and a verified
+legal process portal for records requests. → [adrenalinerealm.com](https://adrenalinerealm.com)
 
 ---
 
 ### Technical focus
 
-- Software architecture and engineering
 - Digital forensics and forensic technology
-- Secure systems design
 - Evidence and data provenance
+- Software architecture and engineering
+- Secure systems design
 - Automation, tooling, and release pipelines
 - Applied AI systems
 
@@ -31,14 +40,17 @@ and every claim checkable.
 
 ### Technologies
 
-**Languages** — Swift · C# / .NET · Python · PowerShell · Shell
+**Languages** — Swift · C# / .NET · Python · TypeScript · PowerShell · Shell
 
 **Cloud & infrastructure** — AWS (CloudFormation, Lambda, API Gateway, Cognito, DynamoDB,
 KMS, S3, CloudTrail, CloudWatch)
 
 **Engineering** — GitHub Actions · CodeQL · static analysis and supply-chain scanning · Git
 
-**Platforms** — macOS · iOS · Windows
+**Platforms** — macOS · iOS · Android · Windows
+
+**Forensics** — Cellebrite · mobile device examination · historical cell site analysis ·
+blockchain and cryptocurrency tracing
 
 ---
 
@@ -69,8 +81,8 @@ Software should sharpen professional judgment, never stand in for it.
 <a href="https://orcid.org/0009-0007-6471-1759"><img src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" alt="ORCID iD" width="16" height="16"></a>
 &nbsp;**ORCID** &nbsp;[0009-0007-6471-1759](https://orcid.org/0009-0007-6471-1759)
 
-Forthcoming work in digital-forensics research, forensic artifact analysis, and technical
-writing will be registered under that iD.
+Published findings in iOS and application forensics, forensic artifact analysis, and
+technical writing are registered under that iD. → [deviops.app](https://deviops.app/digital-forensics/)
 
 ---
 
