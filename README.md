@@ -3,7 +3,7 @@
 **Digital Forensics · Software Engineering · Forensic Technology**
 
 I examine digital evidence for criminal investigations, and I build software for the
-same work — mobile device and computer forensics, and historical cell site analysis. The engineering is not a second career. Digital evidence is
+same work — mobile device, computer forensics, and historical cell site analysis. The engineering is not a second career. Digital evidence is
 only as good as the process that handles it, and most of what goes wrong with it goes
 wrong at the point of collection, long before anyone opens a tool.
 
