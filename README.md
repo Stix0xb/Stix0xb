@@ -49,7 +49,7 @@ KMS, S3, CloudTrail, CloudWatch)
 **Platforms** — macOS · iOS · Android · Windows
 
 **Forensics** — Cellebrite · mobile device examination · historical cell site analysis ·
-blockchain and cryptocurrency tracing
+blockchain and cryptocurrency training. 
 
 ---
 
